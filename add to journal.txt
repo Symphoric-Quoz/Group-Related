@@ -1,0 +1,5 @@
+7/05
+Decided on Kanban, using HacknPlan to facilitate it
+Decided on Windows 95 aesthetic, made models of icons to use in-game
+Created hammer that may or may not be used in-game
+Narrowed down our target demographic using Bartle testing
